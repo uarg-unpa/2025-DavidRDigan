@@ -1,8 +1,8 @@
 # Trabajo Práctico N°02
 
-![Java](https://badgen.net/badge/Java/codigo/red?icon=java)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![unpa](https://custom-icon-badges.demolab.com/badge/UNPA-UARG-blue.svg?logo=unpa_uarg)](https://www.uarg.unpa.edu.ar/)  
+![Java](https://badgen.net/badge/Java/codigo/red?icon=java)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![unpa](https://custom-icon-badges.demolab.com/badge/UNPA-UARG-blue.svg?logo=unpa_uarg)](https://www.uarg.unpa.edu.ar/)
 [![made in AR](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/AR.svg)](https://github.com/pedromxavier/flag-badges)
 
 ### De la cátedra: "Programación de Algoritmos", en UNPA UARG, en la carrera Analista de Sistemas.

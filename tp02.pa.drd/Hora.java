@@ -25,6 +25,8 @@ public class Hora {
 		return minutos;
 		}
 		
+/* Ejercicio Tres numero (3) - a) */
+		
 		public static void main(String[] args) {
 			Hora h1;
 			h1 = new Hora();
