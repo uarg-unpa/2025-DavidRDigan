@@ -19,7 +19,10 @@ Lista con los archivos generados y disponibles en esta carpeta del repositorio.
 | --- | --- |
 | 1   | classes_y_atributos.json |
 | 2   | TpdosEjdos.java |
-| 3   | Hora.java |
+| 3 - a) | Hora.java |
+| 3 - b) | HoraB.java |
+| 3 - c) | HoraC.java |
+| 3 - d) | HoraD.java |
 
 * * *
 
