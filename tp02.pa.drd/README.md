@@ -15,14 +15,7 @@ Este documento es una reseña de las tareas incluidas en el trabajo práctico n�
 
 Lista con los archivos generados y disponibles en esta carpeta del repositorio.
 
-| Ejercicio | Archivos |
-| --- | --- |
-| 1   | classes_y_atributos.json |
-| 2   | TpdosEjdos.java |
-| 3 - a) | Hora.java |
-| 3 - b) | HoraB.java |
-| 3 - c) | HoraC.java |
-| 3 - d) | HoraD.java |
+<table><thead><tr><th>Ejercicio</th><th>Archivos</th></tr></thead><tbody><tr><td>1</td><td>classes_y_atributos.json</td></tr><tr><td>2</td><td>TpdosEjdos.java</td></tr><tr><td>2 (corrección)</td><td><p>Carpeta "ejerciciodosClases"</p><ul><li>Alumno.java</li><li>Curso.java</li><li>Libro.java</li><li>Triangulo.java</li></ul></td></tr><tr><td>3 - a)</td><td>Hora.java</td></tr><tr><td>3 - b)</td><td>HoraB.java</td></tr><tr><td>3 - c)</td><td>HoraC.java</td></tr><tr><td>3 - d)</td><td>HoraD.java</td></tr><tr><td>4</td><td>Televisor.java</td></tr></tbody></table>
 
 * * *
 
