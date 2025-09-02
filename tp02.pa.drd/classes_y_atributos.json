@@ -1,0 +1,94 @@
+{
+"TP_dos": [
+		"Primer ejercicio", [
+			{
+			"class": "Alumno",
+			"atributos": {
+				"nombre": "Arnoldo",
+				"grado": "5to A",
+				"comedor": "Si"
+			}
+		},
+		{
+			"class": "Libro",
+			"atributos": {
+				"titulo": "Manual de ingenieria",
+				"paginas": "418",
+				"copias": "2"
+			}
+		},
+		{
+			"class": "Cancion",
+			"atributos": {
+				"nombre": "La cumparsita",
+				"tiempo": "3 minutos",
+				"bailable": "si"
+			}
+		},
+		{
+			"class": "Televisor",
+			"atributos": {
+				"marca": "Goldstar",
+				"pulgadas": "21",
+				"volumen": "7"
+			}
+		},
+		{
+			"class": "Telefono Celular",
+			"atributos": {
+				"modelo": "E5 play",
+				"banda": "4G",
+				"memoria": "32Gb"
+			}
+		},
+		{
+			"class": "Pelicula",
+			"atributos": {
+				"duracion": "92",
+				"clasificacion": "ATP",
+				"rebobinada": "si"
+			}
+		},
+		{
+			"class": "Mascota",
+			"atributos": {
+				"alimento": "hierbas",
+				"peso": "2kg",
+				"guarida": "si"
+			}
+		},
+		{
+			"class": "Curso",
+			"atributos": {
+				"certificado": "si",
+				"costo": "u$s 250",
+				"materiales": "libros"
+			}
+		},
+		{
+			"class": "Domicilio",
+			"atributos": {
+				"codigo postal": "9400",
+				"apto profesional": "si",
+				"con servicios": ["agua", "luz", "internet"]
+			}
+		},
+		{
+			"class": "Punto",
+			"atributos": {
+				"tipo": ["cruz", "doble"],
+				"fibra": "lana",
+				"contador": "22"
+			}
+		},
+		{
+			"class": "Triangulo",
+			"atributos": {
+				"base": "45",
+				"altura": "23",
+				"tipo": "isoceles"
+			}
+		}
+		]
+	]
+}
